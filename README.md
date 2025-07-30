@@ -6,6 +6,7 @@
 ### 🎮 Проекты
 - [💻 Игровой проект на Unity](https://github.com/reolis/BaseSpace) - космическое приключение со скинами!
 - [🦾 Распознование движений с помощью технического зрения]() - coming soon...
+
 ---
 
 ### ⚙️ Навыки
@@ -20,3 +21,8 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/reoliss)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](reolisguin@gmail.com)
+
+---
+
+### 💜 О себе
+- [Вот тут можно почитать побольше!](https://drive.google.com/drive/folders/10Dv5Uc3EK8nfMCGcAOX7k183S8tevxp-?usp=drive_link)
