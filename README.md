@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Привет! Я Алиса 👋</h1>
+<p align="center">Разработчик игр и робототехнических симуляций | Python • Unity • C#</p>
 
-<!--
-**reolis/reolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎮 Проекты
+- [💻 Игровой проект на Unity](https://github.com/reolis/BaseSpace) - космическое приключение со скинами!
+- [🦾 Распознование движений с помощью технического зрения]() - coming soon...
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Навыки
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
+
+---
+
+### 📫 Связь
+
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/reoliss)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](reolisguin@gmail.com)
