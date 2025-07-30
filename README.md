@@ -1,28 +1,40 @@
-<h1 align="center">Привет! Я Алиса 👋</h1>
-<p align="center">Разработчик игр и робототехнических симуляций | Python • Unity • C#</p>
+<h1 align="center">🌸 Привет! Я Алиса! 🐣</h1>
+<p align="center">✨ Разрабатываю игры и симуляции, люблю технологии и котиков ✨</p>
 
 ---
 
 ### 🎮 Проекты
-- [💻 Игровой проект на Unity](https://github.com/reolis/BaseSpace) - космическое приключение со скинами!
-- [🦾 Распознование движений с помощью технического зрения]() - coming soon...
+
+🌌 [**BaseSpace**](https://github.com/reolis/BaseSpace) — космическое приключение на Unity со скинами и милыми эффектами! 🚀<br>
+🦾 **Распознование движений** — скоро! Камера + тех. зрение + магия 🪄
 
 ---
 
-### ⚙️ Навыки
+### 💖 Навыки
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
-
----
-
-### 📫 Связь
-
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/reoliss)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](reolisguin@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-ffcce0?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unity-dcd6f7?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/-C%23-c3bef0?style=for-the-badge&logo=csharp&logoColor=white">
+</p>
 
 ---
 
-### 💜 О себе
-- [Вот тут можно почитать побольше!](https://drive.google.com/drive/folders/10Dv5Uc3EK8nfMCGcAOX7k183S8tevxp-?usp=drive_link)
+### 🌷 Контакты
+
+<p align="center">
+  <a href="https://t.me/reoliss">
+    <img src="https://img.shields.io/badge/Telegram-ffe0f0?style=for-the-badge&logo=telegram&logoColor=0088cc">
+  </a>
+  <a href="mailto:reolisguin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-fde2e4?style=for-the-badge&logo=gmail&logoColor=red">
+  </a>
+</p>
+
+---
+
+### 🐾 Немножко обо мне
+
+- 🧠 Люблю визуализировать идеи и делать прототипы, особенно с роботами!
+- 🎨 Украшаю код, как будто это тетрадка с наклейками
+- 💌 [Почитать побольше](https://drive.google.com/drive/folders/10Dv5Uc3EK8nfMCGcAOX7k183S8tevxp-?usp=drive_link)
