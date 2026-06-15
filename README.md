@@ -30,24 +30,3 @@
 💻 Вела занятия по Python, Scratch, Unity, C#.<br>
 🎨 Создаю материалы и игровые проекты, чтобы обучение было интересным и визуальным.<br>
 🧩 Работала с методистами и участвовала в проектах по развитию цифровой культуры среди подростков.
-
----
-
-### 🌷 Контакты
-
-<p align="center">
-  <a href="https://t.me/reoliss">
-    <img src="https://img.shields.io/badge/Telegram-ffe0f0?style=for-the-badge&logo=telegram&logoColor=0088cc">
-  </a>
-  <a href="mailto:reolisguin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-fde2e4?style=for-the-badge&logo=gmail&logoColor=red">
-  </a>
-</p>
-
----
-
-### 🐾 Немножко обо мне
-
-- 🧠 Люблю визуализировать идеи и делать прототипы, особенно с роботами!
-- 🎨 Украшаю код, как будто это тетрадка с наклейками
-- 💌 [Почитать побольше](https://drive.google.com/file/d/1n4xLlsGi0VIipXb5CNbzu8YIPHt4lZwl/view?usp=sharing)
