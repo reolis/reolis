@@ -1,18 +1,6 @@
 <h1 align="center">🌸 Привет! Я Алиса! 🐣</h1>
 <p align="center">✨ Разрабатываю игры и симуляции, люблю технологии и котиков ✨</p>
 
----
-
-### 🎮 Проекты
-
-🌌 [**Space Andventure**](https://github.com/reolis/Space-Andventure) – космическое приключение на Unity со скинами и милыми эффектами! 🚀<br>
-🦾 [**Распознование движений**](https://github.com/reolis/Unity-Motion-Recognition) – скоро! Камера + тех. зрение + магия 🪄<br>
-✏️ [**ClassFlow**](https://github.com/reolis/ClassFlow) – небольшое приложение для создания UML диаграмм с помощью текста! *В разработке...* 💻<br>
-✒️ [**InkFlow**](https://github.com/reolis/InkFlow) – редактор текста для писаталей *В разработке...* 💻<br>
-☘️ [**Eco Simulator**](https://github.com/reolis/Eco-Simulator) – симулятор существ, которые просто пытаются вкусно поесть! *В разработке...* 💻
-
----
-
 ### 💖 Навыки
 
 <p align="center">
